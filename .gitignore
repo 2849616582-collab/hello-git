@@ -1,0 +1,10 @@
+# 编译产物
+*.o
+*.obj
+*.exe
+a.out
+hello
+
+# 编辑器
+.vscode/
+*.swp
