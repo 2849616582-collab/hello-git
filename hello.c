@@ -4,7 +4,7 @@
 /* 打印问候语 */
 void hello(const char *name)
 {
-    printf("Hello, %s! (local edit)\n", name);
+    printf("Hello, %s! Welcome to Git lab.\n", name);
 }
 
 /* 两数相加 */
